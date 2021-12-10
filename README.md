@@ -5,8 +5,6 @@ Useful links:
 https://www.w3schools.com/html/default.asp    <= Great for picking up HTML snippets, like how to create a navigation bar, or an entire skeleton page
 
 
-Pseudocode:
-
 Pages: Title (index.html), Unit5, Global, Favorites
 
 Title links to: Unit5, Global, Favorites
