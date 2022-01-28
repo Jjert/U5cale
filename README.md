@@ -20,7 +20,7 @@ Unit5 Page:
 -Title, download pdf, *blocks, transpose dropdown, clef selection
 
 Global page:
--Title, download pdf, *blocks, transpose dropdown, clef selection
+-Title, download pdf, *blocks, Not in MVP --> transpose dropdown, clef selection
 
 Favorites page:
 -Title, download pdf, *blocks, transpose dropdown, clef selection
