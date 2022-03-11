@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .flex-body {
   display: flex;
   background-color: white;
@@ -7,13 +11,36 @@
   background-color: #f1f1f1;
   margin: 10px;
   padding: 20px;
-  font-size: 30px;
+  font-size: 60px;
+  height: 450px;
   width: 100%;
+  text-align: center;
 }
 
 .flex-body > div > p {
-  font-size: 18px;
+  font-size: 30px;
 }
+
+.flex-container-scale {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.flex-container-scale > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 60px;
+  height: 450px;
+  width: 100%;
+  text-align: center;
+}
+
+.flex-container-scale > div > p {
+  font-size: 30px;
+}
+
 
 ul {
   list-style-type: none;
